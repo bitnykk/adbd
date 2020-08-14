@@ -1,0 +1,9 @@
+Oskari Saarenmaa: initial implementation.
+
+Roland Karch: compatibility with version 18.2+ databases.
+
+Bitnykk: upgrading for 2020 compatibility.
+
+Nadyita: compiling & exporting tricks.
+
+Xyphos: compatible C-tree dll library.
